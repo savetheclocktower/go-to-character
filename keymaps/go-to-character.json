@@ -1,0 +1,11 @@
+{
+  ".platform-darwin atom-workspace": {
+    "cmd-ctrl-l": "go-to-character:toggle"
+  },
+  ".platform-win32 atom-workspace": {
+    "alt-shift-l": "go-to-character:toggle"
+  },
+  ".platform-linux atom-workspace": {
+    "alt-shift-l": "go-to-character:toggle"
+  }
+}
